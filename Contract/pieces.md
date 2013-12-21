@@ -1,0 +1,1 @@
+What is the client responsible for? The client is responsible for two things and two things only: Content & Goals. This amounts to the information that you will have obtained through your questionnaire. These two things should be acquired before the start of that project and remain constants; they do not change.
