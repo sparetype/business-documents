@@ -1,16 +1,17 @@
 ## Definitions
-_Let's get a few pronouns out of the way so things can be a little more conversational. I am not a fan of small print or legalese, so I aim to keep this document as concise and casual as possible._
+_Let's get a few pronouns out of the way so things can be a little more conversational. I am not a fan of small print or legalese, so my aim is to keep this document as concise and casual as possible._
 
 "You" refers to [insert client/company name] located at [insert address]
 
 "I", "My", or "Me" refers to Griffin Shreves, III doing business as SpareType located at 425 Webster Road #220 Auburn, Alabama 36832
 
-## Summary:
-I’ll always do my best to fulfil your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. All I want is clear communication and what’s best for both parties, now and in the future.
+## Introduction:
+I am really excited that we are at the stage where we sign contracts and I hope this document helps us maintain a great professional relationship. You should know I always do my best to fulfil Your needs and meet Your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. What I want is clear communication and what’s best for both parties, now and in the future.
 
-So in short;
+## Summary
+So in short form;
 
-You are hiring Me to consult and work on various graphic design projects for the next year for the total price of $15,000. If only it were that simple.
+You are hiring Me to consult and work on various graphic design projects for the next year for the total price of $15,000. _If only it were that simple._
 
 ## Scope of Work
 Since there is a wide range of projects we could work on throughout the year, a separate Scope of Work document is supplementary to this contract and shall be referenced and referred to when agreeing and defining the project’s scope.
