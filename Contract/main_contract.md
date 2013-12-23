@@ -6,7 +6,7 @@ _Let's get a few pronouns out of the way so things can be a little more conversa
 "I", "My", or "Me" refers to Griffin Shreves, III doing business as SpareType located at 425 Webster Road #220 Auburn, Alabama 36832
 
 ## Introduction:
-I am really excited that we are at the stage where we sign contracts and I hope this document helps us maintain a great professional relationship. You should know I always do my best to fulfil Your needs and meet Your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. What I want is clear communication and what’s best for both parties, now and in the future.
+I am really excited we are at the stage of signing contracts. I hope this document helps us maintain a great professional relationship. You should know I always do my best to fulfil needs and meet expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. Better to have it and not need it, than to need it and not have it.
 
 ## Summary
 So in short form;
