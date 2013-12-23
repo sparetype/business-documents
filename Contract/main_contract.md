@@ -3,7 +3,7 @@ _Let's get a few pronouns out of the way so things can be a little more conversa
 
 "You" refers to [insert client/company name] located at [insert address]
 
-"I" or "Me" refers to Griffin Shreves, III doing business as SpareType located at 425 Webster Road #220 Auburn, Alabama 36832
+"I", "My", or "Me" refers to Griffin Shreves, III doing business as SpareType located at 425 Webster Road #220 Auburn, Alabama 36832
 
 ## Summary:
 I’ll always do my best to fulfil your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. All I want is clear communication and what’s best for both parties, now and in the future.
@@ -32,6 +32,14 @@ At the conclusion of this contract, all copyright and intellectual property righ
 2. I retain all rights to certain generic design tools that might be used in creating projects. These might include code snippets, theme frameworks, icon sets, and other common design resources. Any generic design tools used in a project will be provided to You and are licensed to You royalty-free for future use.
 3. I retain all rights to any preliminary draft concepts and artwork not used or related to the final outcome of the project.
 4. I retain the right to display any portion of work in my portfolio and website for the purpose of self-promotion.
+
+## Liability
+I can’t guarantee that work will be error free - for example, typographical errors in material You provide and I do not catch before production or unreported bugs in website code. Any errors reported while under this contract or up to thirty days past the conclusion of this contract will be addressed and fixed in a manner You and I agree upon during face-to-face communication. I am not liable to You or any third-party for damages, including lost profits or other incidental damages, resulting from any errors.
+
+## Other Legal Mumbo Jumbo
+- You cannot transfer this contract to anyone else without My permission.
+- If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of this contract remain in place.
+- This contract is a legal document under exclusive jurisdiction of the courts of Lee County, Alabama.
 
 ## Timeframe
 This contract goes into effect on the date signed and remains in effect for 365 days.
