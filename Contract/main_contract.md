@@ -34,5 +34,5 @@ You guarantee that all elements of text, images, or other design materials You p
 
 At the conclusion of this contract, all copyright and intellectual property rights for work produced are assigned to You with the following exceptions:
 
-	1. Any open source or other third-party resources used in a project will remain under their respective licenses.
-	2. I retain all rights to certain design tools that might be in
+	1. Any open source or other third-party resources used in a project will remain under their respective licenses and copyrights.
+	2. I retain all rights to certain generic design tools that might be used in creating projects. These might include code snippets, theme frameworks, icon sets, and other common design resources. Any generic design tools used in a project will be provided to You and are licensed to You for future use. This license is royalty-free and non-exclusive.
