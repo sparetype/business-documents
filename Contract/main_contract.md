@@ -28,10 +28,10 @@ You guarantee that all elements of text, images, or other design materials You p
 
 At the conclusion of this contract, all copyright and intellectual property rights for work produced are assigned to You with the following exceptions:
 
-	1. Any open source or other third-party resources used in a project will remain under their respective licenses and copyrights.
-	2. I retain all rights to certain generic design tools that might be used in creating projects. These might include code snippets, theme frameworks, icon sets, and other common design resources. Any generic design tools used in a project will be provided to You and are licensed to You royalty-free for future use.
-	3. I retain all rights to any preliminary draft concepts and artwork not used or related to the final outcome of the project.
-	4. I retain the right to display any portion of work in my portfolio and website for the purpose of self-promotion.
+1. Any open source or other third-party resources used in a project will remain under their respective licenses and copyrights.
+2. I retain all rights to certain generic design tools that might be used in creating projects. These might include code snippets, theme frameworks, icon sets, and other common design resources. Any generic design tools used in a project will be provided to You and are licensed to You royalty-free for future use.
+3. I retain all rights to any preliminary draft concepts and artwork not used or related to the final outcome of the project.
+4. I retain the right to display any portion of work in my portfolio and website for the purpose of self-promotion.
 
 ## Timeframe
 This contract goes into effect on the date signed and remains in effect for 365 days.
@@ -40,4 +40,18 @@ This contract goes into effect on the date signed and remains in effect for 365 
 In addition to this signed contract and a fully agreed Scope of Work, a $1500 deposit is required to begin work. The remaining $13,500 will be invoiced to You in equally divided payments over the next 365 days on a [monthly,quarterly] basis. Invoices are to be paid within 15 days of being received, after which they are considered late. A 10% late fee will be charged and added to any outstanding invoice balances that become late.
 
 #### Other Expenses
-Depending on the Scope of Work, there are likely third-party expenses associated with producing a final product. These could include web hosting, e-commerce merchant fees, cost of printing, and other material costs. I will do my best to make You aware of these costs as early in the project as possible, but You are responsible paying these production costs.
+Depending on the Scope of Work, there are likely third-party expenses associated with producing a final product. These could include web hosting, e-commerce merchant fees, cost of printing, and other material costs. I will do my best to make You aware of these costs as early in the project as possible, but You are responsible for paying these production costs.
+
+## Signatures
+
+The undersigned confirm that they have read, understood, and will adhere to the terms laid out in this contract and have the authority to enter into this contract on their behalf and the behalf of their company or organization.
+
+
+
+Griffin Shreves, III on behalf of SpareType  
+Date 00/00/0000
+
+
+
+Signee Name on behalf of Client Name  
+Date 00/00/0000
