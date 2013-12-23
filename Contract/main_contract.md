@@ -5,7 +5,7 @@ _Let's get a few pronouns out of the way so things can be a little more conversa
 
 "I", "My", or "Me" refers to Griffin Shreves, III doing business as SpareType located at 425 Webster Road #220 Auburn, Alabama 36832
 
-## Introduction:
+## Introduction
 I am really excited we are at the stage of signing contracts. I hope this document helps us maintain a great professional relationship. You should know I always do my best to fulfil needs and meet expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. Better to have it and not need it, than to need it and not have it.
 
 ## Summary
@@ -23,6 +23,12 @@ There are times when the Scope of Work may need to change. If needed, we will ha
 Deadlines will be defined and agreed to as part of the Scope of Work. Deadlines work both ways. You agree to give Me everything I need, in the format I need it, to complete projects. You will review work, provide feedback, and approve completions in a timely manner. In return, I agree to provide regular updates on progress and complete work on time.
 
 In the unfortunate event that either one of us cannot meet a deadline, it is important that we remain completely transparent and honest about any delays or hold ups. Delays can, will, and do happen. It is how we handle them that matters.
+
+## Timeframe
+This contract goes into effect on the date signed and remains in effect for 365 days. At any point while under this contract, You or I can request to renew or renegotiate a new contract or new Scope of Work to amend or replace this contract.
+
+## Early Termination
+I hope
 
 ##  Copyright, intellectual property, and ownership
 You guarantee that all elements of text, images, or other design materials You provide are either owned by You, or that You have permission to use them.
@@ -42,8 +48,6 @@ I can’t guarantee that work will be error free - for example, typographical er
 - If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of this contract remain in place.
 - This contract is a legal document under exclusive jurisdiction of the courts of Lee County, Alabama.
 
-## Timeframe
-This contract goes into effect on the date signed and remains in effect for 365 days.
 
 ## The Money
 In addition to this signed contract and a fully agreed Scope of Work, a $1500 deposit is required to begin work. The remaining $13,500 will be invoiced to You in equally divided payments over the next 365 days on a [monthly,quarterly] basis. Invoices are to be paid within 15 days of being received, after which they are considered late. A 10% late fee will be charged and added to any outstanding invoice balances that become late.
