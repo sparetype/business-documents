@@ -19,16 +19,19 @@ Since there is a wide range of projects we could work on throughout the year, a 
 #### Changes to Scope of Work
 There are times when the Scope of Work may need to change. If needed, we will handle these situations with face-to-face communication. Any major deviations in Scope of Work may require renegotiation of the duration of this contract, additional compensation, or the termination of this contract.
 
+## Timeframe
+This contract goes into effect on the date signed and remains in effect for 365 days. At any point while under this contract, You or I can request to renew or renegotiate a new contract or new Scope of Work to amend or replace this contract.
+
 ## Deadlines
 Deadlines will be defined and agreed to as part of the Scope of Work. Deadlines work both ways. You agree to give Me everything I need, in the format I need it, to complete projects. You will review work, provide feedback, and approve completions in a timely manner. In return, I agree to provide regular updates on progress and complete work on time.
 
 In the unfortunate event that either one of us cannot meet a deadline, it is important that we remain completely transparent and honest about any delays or hold ups. Delays can, will, and do happen. It is how we handle them that matters.
 
-## Timeframe
-This contract goes into effect on the date signed and remains in effect for 365 days. At any point while under this contract, You or I can request to renew or renegotiate a new contract or new Scope of Work to amend or replace this contract.
+## The Money
+In addition to this signed contract and a fully agreed Scope of Work, a $1500 deposit is required to begin work. The remaining $13,500 will be invoiced to You in equally divided payments over the next 365 days on a [monthly,quarterly] basis. Invoices are to be paid within 15 days of being received, after which they are considered late. A 10% late fee will be charged and added to any outstanding invoice balances that become late.
 
-## Early Termination
-I hope
+#### Other Expenses
+Depending on the Scope of Work, there are likely third-party expenses associated with producing a final product. These could include web hosting, e-commerce merchant fees, cost of printing, and other material costs. I will do my best to make You aware of these costs as early in the project as possible, but You are responsible for paying these production costs.
 
 ##  Copyright, intellectual property, and ownership
 You guarantee that all elements of text, images, or other design materials You provide are either owned by You, or that You have permission to use them.
@@ -48,12 +51,9 @@ I can’t guarantee that work will be error free - for example, typographical er
 - If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of this contract remain in place.
 - This contract is a legal document under exclusive jurisdiction of the courts of Lee County, Alabama.
 
+## Termination
+_I hope it never comes to this but here is an out._ You have the right to terminate this contract at any point. To initiate termination, all outstanding invoices must be paid in full. A $1000 termination fee will be assessed and due within thirty days. Once I receive the termination fee, I will transfer to You whatever progress has been made on the Scope of Work.
 
-## The Money
-In addition to this signed contract and a fully agreed Scope of Work, a $1500 deposit is required to begin work. The remaining $13,500 will be invoiced to You in equally divided payments over the next 365 days on a [monthly,quarterly] basis. Invoices are to be paid within 15 days of being received, after which they are considered late. A 10% late fee will be charged and added to any outstanding invoice balances that become late.
-
-#### Other Expenses
-Depending on the Scope of Work, there are likely third-party expenses associated with producing a final product. These could include web hosting, e-commerce merchant fees, cost of printing, and other material costs. I will do my best to make You aware of these costs as early in the project as possible, but You are responsible for paying these production costs.
 
 ## Signatures
 
