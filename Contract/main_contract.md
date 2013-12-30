@@ -17,7 +17,7 @@ You are hiring Me to consult and work on various graphic design projects for the
 Since there is a wide range of projects we could work on throughout the year, a separate Scope of Work document is supplementary to this contract and shall be referenced and referred to when agreeing and defining the project’s scope.
 
 #### Changes to Scope of Work
-There are times when the Scope of Work may need to change. If needed, we will handle these situations with face-to-face communication. Any major deviations in Scope of Work may require renegotiation of the duration of this contract, additional compensation, or the termination of this contract.
+There are times when the Scope of Work may need to change. If needed, we will handle these situations with face-to-face communication. Any major changes in Scope of Work may require renegotiation of the duration of this contract, additional compensation, or the termination of this contract.
 
 ## Timeframe
 This contract goes into effect on the date signed and remains in effect for 365 days. At any point while under this contract, You or I can request to renew or renegotiate a new contract or new Scope of Work to amend or replace this contract.
@@ -43,6 +43,16 @@ At the conclusion of this contract, all copyright and intellectual property righ
 3. I retain all rights to any preliminary draft concepts and artwork not used or related to the final outcome of the project.
 4. I retain the right to display any portion of work in my portfolio and website for the purpose of self-promotion.
 
+## Termination
+_I hope it never comes to this but here is an out._ You have the right to terminate this contract at any point. To initiate termination, all outstanding invoices must be paid in full. You will be assessed a $1000 termination fee that is due within thirty days. Once I receive the termination fee, I will transfer to You whatever progress has been made on the Scope of Work.
+
+_It's not you, it's me._ I have the right to terminate this contract if any of the following conditions have occured:
+- Any late payments.
+- Any major changes in Scope of Work.
+- Any breakdowns or failures in communication longer than ten days.
+
+Upon written notice of termination, You have thirty days to pay any outstanding invoices. Once I receive payment, I will transfer to You whatever progress has been made on the Scope of Work.
+
 ## Liability
 I can’t guarantee that work will be error free - for example, typographical errors in material You provide and I do not catch before production or unreported bugs in website code. Any errors reported while under this contract or up to thirty days past the conclusion of this contract will be addressed and fixed in a manner You and I agree upon during face-to-face communication. I am not liable to You or any third-party for damages, including lost profits or other incidental damages, resulting from any errors.
 
@@ -50,10 +60,6 @@ I can’t guarantee that work will be error free - for example, typographical er
 - You cannot transfer this contract to anyone else without My permission.
 - If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of this contract remain in place.
 - This contract is a legal document under exclusive jurisdiction of the courts of Lee County, Alabama.
-
-## Termination
-_I hope it never comes to this but here is an out._ You have the right to terminate this contract at any point. To initiate termination, all outstanding invoices must be paid in full. A $1000 termination fee will be assessed and due within thirty days. Once I receive the termination fee, I will transfer to You whatever progress has been made on the Scope of Work.
-
 
 ## Signatures
 
