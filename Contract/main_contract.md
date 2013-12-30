@@ -54,12 +54,12 @@ _It's not you, it's me._ I have the right to terminate this contract if any of t
 Upon written notice of termination, You have thirty days to pay any outstanding invoices. Once I receive payment, I will transfer to You whatever progress has been made on the Scope of Work.
 
 ## Liability
-I can’t guarantee that work will be error free - for example, typographical errors in material You provide and I do not catch before production or unreported bugs in website code. Any errors reported while under this contract or up to thirty days past the conclusion of this contract will be addressed and fixed in a manner You and I agree upon during face-to-face communication. I am not liable to You or any third-party for damages, including lost profits or other incidental damages, resulting from any errors.
+I can’t guarantee that work will be error free - for example, typographical errors in material You provide and I do not catch before production or unreported bugs in website code. Any errors reported while under this contract or up to thirty days past the conclusion of this contract will be addressed and fixed in a manner You and I agree upon during face-to-face communication. I am not liable to You or any third-party for any damages, including lost profits or other incidental damages, resulting from any errors.
 
 ## Other Legal Mumbo Jumbo
 - You cannot transfer this contract to anyone else without My permission.
 - If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of this contract remain in place.
-- This contract is a legal document under exclusive jurisdiction of the courts of Lee County, Alabama.
+- This contract is a legal document under exclusive jurisdiction of the courts of Lee County in the State of Alabama.
 
 ## Signatures
 
