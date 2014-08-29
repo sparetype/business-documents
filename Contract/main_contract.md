@@ -3,7 +3,7 @@ _Let's get a few pronouns out of the way so things can be a little more conversa
 
 "You" refers to [insert client/company name] located at [insert address]
 
-"I", "My", or "Me" refers to Griffin Shreves, III doing business as SpareType located at 425 Webster Road #220 Auburn, Alabama 36832
+"I", "My", or "Me" refers to Griffin Shreves, III doing business as SpareType located at 451 East Richardson Drive, Mobile, Alabama 36606
 
 ## Introduction
 I am really excited we are at the stage of signing contracts. I hope this document helps us maintain a great professional relationship. You should know I always do my best to fulfil needs and meet expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. Better to have it and not need it, than to need it and not have it.
@@ -59,7 +59,7 @@ I can’t guarantee that work will be error free - for example, typographical er
 ## Other Legal Mumbo Jumbo
 - You cannot transfer this contract to anyone else without My permission.
 - If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of this contract remain in place.
-- This contract is a legal document under exclusive jurisdiction of the courts of Lee County in the State of Alabama.
+- This contract is a legal document under exclusive jurisdiction of the courts of Mobile County in the State of Alabama.
 
 ## Signatures
 
